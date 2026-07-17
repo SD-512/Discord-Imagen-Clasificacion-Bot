@@ -1,0 +1,4 @@
+.venv/
+images/
+keras_model.h5
+.env
